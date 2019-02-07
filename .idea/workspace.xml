@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="4e381bf0-9de9-4a88-b5b1-2e15ada1f35e" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/src/components/Navigation/SideDrawer/SideDarwer.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/Navigation/SideDrawer/SideDrawer.css" afterDir="false" />
@@ -11,6 +12,9 @@
       <change beforePath="$PROJECT_DIR$/src/components/Navigation/Toolbar/Toolbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/Toolbar/Toolbar.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Navigation/Toolbar/Toolbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/Toolbar/Toolbar.js" afterDir="false" />
     </list>
+=======
+    <list default="true" id="4e381bf0-9de9-4a88-b5b1-2e15ada1f35e" name="Default" comment="" />
+>>>>>>> Stashed changes
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -358,14 +362,22 @@
       <workItem from="1548838060304" duration="3160000" />
       <workItem from="1549002400425" duration="1091000" />
       <workItem from="1549069819018" duration="5019000" />
+<<<<<<< Updated upstream
       <workItem from="1549125211358" duration="2587000" />
       <workItem from="1549159005890" duration="2596000" />
       <workItem from="1549161629224" duration="2124000" />
+=======
+      <workItem from="1549125211358" duration="2690000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="49463000" />
+=======
+    <option name="totallyTimeSpent" value="44846000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />

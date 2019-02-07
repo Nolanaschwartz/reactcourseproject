@@ -12,23 +12,23 @@
     transition: transform 0.3s ease-out;
 }
 
-.Logo {
-    height: 11%;
-}
+
 
 @media (min-width: 500px){
     .SideDrawer{
         display:none;
     }
+}
 
-    .Open {
-        transform:translateX(0);
-    }
+.Open {
+    transform:translateX(0);
+}
 
-    .Close {
-        transform:translateX(-100%);
-    }
-
-
+.Close {
+    transform:translateX(-100%);
+}
+.Logo {
+    height: 11%;
+    width: 11%;
 }
 
